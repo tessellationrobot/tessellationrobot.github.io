@@ -2,22 +2,21 @@
 title: Home
 ---
 
-
-
 This is our project website. We are a team, doing research on a very interesting topic i. e. '**_How can the directional stiffness exhibited by origami tessellations be used to simplify the actuation of the locomotion of a laminate robot?_**'. We hope that you too find the research interesting and participate with us by providing some feedback.  
   
-
 ## Introduction
 
 _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such as the ‘snake skin’ tessellation exhibit an interesting property of directional stiffness. This means that as force is applied to the tessellation in one direction it easily flexes but when force is applied in the opposite direction the structure reaches a point at which it becomes rigid or stiff. This property could be used to allow for a work loop in a gait by only moving a limb forwards and backwards and allowing the directional stiffness to create the force difference needed for motion._
 
-## Steps followed
-* Step 1 - [Developing a research question](/developing_a_research_question.md)
-* Step 2 - [Biomechanics background and initial specifications](/Biomechanics_Background_and_Initial_Specifications.pdf)
-* Step 3 - [System kinematics](/System_Kinematics.md) [[Download .ipynb file](/System_Kinematics.ipynb)] 
+## What is 'Origami'?
 
-## Updates
+## What is 'Tessellation'?
 
+## Sequence of tasks
+1. [Developing a research question](/developing_a_research_question.md)
+2. [Biomechanics background and initial specifications](/Biomechanics_Background_and_Initial_Specifications.pdf)
+3. [System kinematics](/System_Kinematics.md) [[Download .ipynb file](/System_Kinematics.ipynb)]
+4. [1st Presentation] [[Download .pptx file](/)]
 
 ## Team
 
