@@ -12,8 +12,8 @@ _Some [origami](https://en.wikipedia.org/wiki/Origami) [tessellations](https://e
 
 ## Research completed
 * [Developing a research question](/developing_a_research_question.md)
-* [Biomechanics background and initial specifications](https://github.com/mshah72/mshah72.github.io/blob/5fd1eca0fdde6f373ca186bbd0b8efd4ce2f1371/Biomechanics%20Background.pdf)
-* [System kinematics](https://github.com/mshah72/mshah72.github.io/blob/7e4bdc6b05da5e2250a5cf0ba5563b03b92aaba3/System_Kinematics.ipynb) 
+* [Biomechanics background and initial specifications](/Biomechanics_Background_and_Initial_Specifications.pdf)
+* [System kinematics](/System_Kinematics.ipynb) 
 
 ## Updates
 
