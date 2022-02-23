@@ -13,7 +13,7 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation)  such 
 ## Research completed
 * [Developing a research question](/developing_a_research_question.md)
 * [Biomechanics background and initial specifications](/Biomechanics_Background_and_Initial_Specifications.pdf)
-* [System kinematics](/System_Kinematics.md) 
+* [System kinematics](/System_Kinematics.md) [[Download .ipynb file](/System_Kinematics.ipynb)] 
 
 ## Updates
 
