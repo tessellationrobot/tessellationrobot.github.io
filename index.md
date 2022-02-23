@@ -19,8 +19,8 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation)  such 
 
 ## Team
 
-Advisor - Prof. Daniel Aukes (daukes@asu.edu)
-1. Disha Vyas (dtvyas@asu.edu)
-2. Eric Feil (efeil@asu.edu)
-3. Manan Luthra (mluthra3@asu.edu)
-4. Meet Shah (mshah72@asu.edu)
+Advisor - Prof. Daniel Aukes (<daukes@asu.edu>)
+1. Disha Vyas (<dtvyas@asu.edu>)
+2. Eric Feil (<efeil@asu.edu>)
+3. Manan Luthra (<mluthra3@asu.edu>)
+4. Meet Shah (<mshah72@asu.edu>)
