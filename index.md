@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 ## Research question
 
 **_How can the directional stiffness exhibited by origami tessellations be used to simplify the actuation of the locomotion of a laminate robot?_**
