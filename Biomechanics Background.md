@@ -1,7 +1,5 @@
 ﻿
-**Assignment:  Biomechanics Background and Initial Specifications**
-
-***Submitted by: Manan Luthra, Eric Feil, Disha Vyas***, ***Meet Paresh Shah***
+**Biomechanics Background and Initial Specifications**
 
 1. **Identify a candidate organism you wish to focus on its biomechanics.** 
    1. **List five of the most closely related research references on topics pertinent to your project, in IEEE format.**
@@ -154,26 +152,3 @@ Watts/Kg (rat): 3.08/0.40
 #
 # **References**
 # *[ ]Witte H, Biltzinger J, Hackert R, Schilling N, Schmidt M, Reich C, Fischer MS,  “Torque patterns of the limbs of small therian mammals during locomotion on flat ground”, J Exp Biol, 2002 May, vol. 205, no. 9, pp. 1339-53*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
