@@ -2,37 +2,35 @@
 title: Developing a research question
 ---
 
+# Developing a research question
+
 ## Introduction
-
-Some origami tessellations such as the ‘snakeskin’ tessellation exhibit an interesting property of directional stiffness. This means that as force is applied to the tessellation in one direction it easily flexes but when force is applied in the opposite direction the structure reaches a point at which it becomes rigid or stiff. This property could be used to allow for a work loop in a gait by only moving a limb forwards and backwards and allowing the directional stiffness to create the force difference needed for motion.
-
+Some origami tessellations such as the ‘snakeskin’ tessellation exhibit an interesting property of directional stiffness. This means that as force is applied to the tessellation in one di**rection **it easily flexes but when force is applied in the opposite direction the structure reaches a point at which it becomes rigid or stiff. This property could be used to allow for a work loop in a gait by only moving a limb forwards and backwards and allowing the directional stiffness to create the force difference needed for motion.
 
 ## Tractability
-
 We believe that this question is tractable as the principle of using directional stiffness for locomotion can be seen elsewhere in nature and robotics, but has not yet been studied in laminate robot structures. We will be focusing on terrestrial leg based locomotion for this project. We are constraining the scope of our project to focus on the use of laminate construction techniques to build our robot. We have also constrained the cost of the device to be less than $100.
 
 We have produced a tentative schedule for our project:
 
-Week 1-2<br/>
+**Week 1-2**<br/>
 We intend to begin by identifying the deliverables. This involves performing literature reviews, doing market research, framing a research question and documenting the project requirements; these may be either functional, non- functional or even technical. Further, our goal is to identify and purchase the key parts which would be used on the project.
 
-Week 3-4<br/>
+**Week 3-4**<br/>
 Our aim during this period is to begin with understanding the programming aspects of the design. This would include interfacing the microcontroller with the peripherals and coding it to actuate the design prototype. We also plan to test the different materials accessible to us for the best design fit.
 
-Week 5-7<br/>
+**Week 5-7**<br/>
 Further, we progress on to simulating our design and perform tests in order to understand the system better.
 
-Week 8-10<br/>
+**Week 8-10**<br/>
 * Fabrication
 * Laser cutting
 * Lamination
 
-Week 9-10<br/>
+**Week 9-10**<br/>
 * Assembly
 * Report writing and presentation
 
 ## Novelty
-
 We established novelty by performing keyword searches for research papers on similar topics. We used keywords such as snake skin (a common name for the tessellation we are considering), Origami, laminate robot, directional stiffness, robogami, variable stiffness, 3D Printing, and terrestrial locomotion. We found that while some papers explored laminate robots and others explored variable stiffness in flapping systems no single paper combined the concepts together into a single mechanism. Most papers using directional stiffness properties in limbs also focused on air or water based locomotion instead of terrestrial locomotion.
 
 **Keywords:** Snake skin(a common name for the tessellation), Origami, laminate robot, directional stiffness
@@ -53,7 +51,6 @@ Our main area of interest is to understand the mechanism of origami techniques a
 This question uses foldable robotics to capture the interesting properties of an origami fold and use it to answer the question of how to produce complex motion from a simple actuator input. The use of foldable robotics is especially suited to this task.
 
 ## References
-
 1. **M. Sharifzadeh and D. M. Aukes, "Curvature-Induced Buckling for Flapping-Wing Vehicles," in IEEE/ASME Transactions on Mechatronics, vol. 26, no. 1, pp. 503-514, Feb. 2021, doi: 10.1109/TMECH.2020.3034659.**<br/>
 This paper explores the use of the directional buckling of a curved surface to allow symmetric flapping motor input to generate net forward thrust in a flapping robot. This paper studies how a curved beam can be designed with FEA to allow for a complex flapping gait with simple motor inputs. This paper found that this approach to flapping robot design was effective in producing aquatic robot motion. Our research question is distinct from the one set out in this paper as it seeks to optimize the design based on a different construction technique (laminate), a different method of producing anisotropic robot elements (foldable kinematics), and a different environment (terrestrial).
 
