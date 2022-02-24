@@ -21,3 +21,6 @@ Advisor - Prof. Daniel Aukes (<daukes@asu.edu>)
 2. Eric Feil (<efeil@asu.edu>)
 3. Manan Luthra (<mluthra3@asu.edu>)
 4. Meet Shah (<mshah72@asu.edu>)
+
+## Feedback
+Submit your feedbacks by filling [this form](https://forms.gle/VDvZrak7GW851kjF8).
