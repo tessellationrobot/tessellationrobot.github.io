@@ -73,22 +73,28 @@ _[12] Witte H, Biltzinger J, Hackert R, Schilling N, Schmidt M, Reich C, Fischer
 ## 5. Supply at least two figures from literature, highlighting key aspects of the biological system. This should include one from each of the following categories:
 * **Figures/drawings of skeleton, anatomy, exoskeleton, body plan, musculature, kinematics**
 
+![Kinematic_diagram_of_a_rat_leg](/1.png)</br>
 [10]
- 
+
+![Rat_hindlimb_model](/2.png)</br>
 [5]
 
+![Skeletal_structure_of_the_fore_and_hind_limbs_of_a_rodent_alongside](/3.png)</br>
 This figure shows the skeletal structure of the fore and hind limbs of a rodent alongside a simplified model of the structure modeled as hinged beams.
 
+![Skeletal_structure_of_a_rodent_alongside](/4.png)</br>
 [9] This figure shows a side view of the rat skeletal structure. Note the varying orientation of leg knee joints on the front and rear legs.
 
 * **Motion plots, freeze frames of gait cycle, plot of ground reaction forces**
-[2]
-This figure shows the vertical ground reaction forces of a rat of about 280g mass walking on level ground. Of interest to us are the top two force graphs which show the force curves for the right and left feet. This shows that all limbs of the rat exert similar vertical forces on the ground and do so in a similar manner.
+![Vertical_ground_reaction_forces_of_a_rat](/5.png)</br>
+[2] This figure shows the vertical ground reaction forces of a rat of about 280g mass walking on level ground. Of interest to us are the top two force graphs which show the force curves for the right and left feet. This shows that all limbs of the rat exert similar vertical forces on the ground and do so in a similar manner.
 
 ## 6. Draw the simplest engineering representation of the system you can of your proposed mechanical system. How many rigid bodies are there? How many can be approximated as massless (1/10 of the total mass or less)? Where are the springs? Where is the (main) actuator?
 
+![Single_leg_model](/Aspose.Words.ddd3576c-2f88-416f-a863-365725c19f02.006.png)</br>
 Model of a single leg as two beams with a joint and spring between them. There is an end stop that limits the motion of the second leg element and prevents it from moving past a certain angle with respect to the beam connected to the motor. The leg system is actuated by the one motor which controls the rotation of the beam it is attached to.
 
+![Four_leg_model](/Aspose.Words.ddd3576c-2f88-416f-a863-365725c19f02.007.png)</br>
 This is a side view of the robot system. There are 9 rigid bodies in the model, two for each of the four legs and one for the robot’s main body which will hold the 4 motors and battery. With the repositioning of the battery the robot’s center of gravity will be adjusted so that it is midway between the front and back legs. The legs are expected to have low mass compared to the body of the robot and can thus be modeled as massless in order to simplify the model. 
  
 ## Discussion
@@ -98,8 +104,10 @@ We believe that the rat is a reasonably sized animal for us to use as bioinspira
 
 **2. Find a motor and battery that can supply the mechanical power needs obtained above. Consider that motor efficiencies may be as high as 95%, but if you can’t find it listed, assume you find a more affordable motor at 50-70% efficiency. Compare the mechanical watts/kg for the necessary motor and battery vs the animal’s mechanical power/mass above? Which one is more energy dense?**
 
+![Motor_Specifications](/Aspose.Words.ddd3576c-2f88-416f-a863-365725c19f02.008.png)</br>
+
 **SG90 Servo Motor**
-The SG90 servo motor has a rated torque of 1.7kg-cm. This means that it can handle a maximum load of 17N at one centimeter from the sero axle. In addition to this, the operating DC voltage of this motor ranges from 4.8 to 6V. Considering the typical operational voltage to be 5V and a current consumption of 250mA during movement, a single motor would require a power input of 1.25W. For a 4 limbed robot this would be a peak power draw of 5W. Assuming a 65% efficiency this would result in a motor mechanical power output of 3.25 W close to that of a rat.
+The SG90 servo motor has a rated torque of 1.7kg-cm. This means that it can handle a maximum load of 17N at one centimeter from the sero axle. In addition to this, the operating DC voltage of this motor ranges from 4.8 to 6V. Considering the typical operational voltage to be 5V and a current consumption of 250mA during movement, a single motor would require a power input of 1.25W. For a 4 limbed robot this would be a peak power draw of 5W. Assuming a 65% efficiency this would result in a motor mechanical power output of 3.25 W close to that of a rat.</br>
 
 Efficiency of the servo = Output Mechanical Power/Input Electrical Power
 
