@@ -68,7 +68,7 @@ _[12] Witte H, Biltzinger J, Hackert R, Schilling N, Schmidt M, Reich C, Fischer
 | Peak walking ground reaction | N | 2.5-3 | [2] |
 | Stance phase duration | s | .150-.400 | [4] |
 | Body length | cm | 17-21 | [9] |
-| Tail length | cm | 20-23 | [9] |</br> 
+| Tail length | cm | 20-23 | [9] |
 
 ## 5. Supply at least two figures from literature, highlighting key aspects of the biological system. This should include one from each of the following categories:
 * **Figures/drawings of skeleton, anatomy, exoskeleton, body plan, musculature, kinematics**
