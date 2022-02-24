@@ -14,7 +14,7 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 
 ## Sequence of tasks
 1. [Developing a research question](/developing_a_research_question.md)
-2. [Biomechanics background and initial specifications](/Biomechanics_Background_and_Initial_Specifications.pdf)
+2. [Biomechanics background and initial specifications](/biomechanics_background_and_initial_specifications.md) [[Download .pdf file](/Biomechanics_Background_and_Initial_Specifications.pdf)]
 3. [System kinematics](/System_Kinematics.md) [[Download .ipynb file](/System_Kinematics.ipynb)]
 4. [1st Presentation] [[Download .pptx file](/)]
 
