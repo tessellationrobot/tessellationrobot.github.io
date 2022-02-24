@@ -83,7 +83,7 @@ _[12] Witte H, Biltzinger J, Hackert R, Schilling N, Schmidt M, Reich C, Fischer
 
 ![Skeletal_structure_of_the_fore_and_hind_limbs_of_a_rodent_alongside](/3.png)
 
-This figure shows the skeletal structure of the fore and hind limbs of a rodent alongside a simplified model of the structure modeled as hinged beams.
+[12] This figure shows the skeletal structure of the fore and hind limbs of a rodent alongside a simplified model of the structure modeled as hinged beams.
 
 ![Skeletal_structure_of_a_rodent_alongside](/4.png)
 
