@@ -8,9 +8,9 @@ title: Biomechanics Background and Initial Specifications
 * **List five of the most closely related research references on topics pertinent to your project, in IEEE format.**
 * **Identify three citations which are most useful in creating initial specifications for your robot(use an asterisk in the previous list).**
 
-_* [1] A. J. Parker and K. A. Clarke, “Gait topography in rat locomotion,” Physiology & Behavior, 14-Feb-2003. [Online]. Available: https://www.sciencedirect.com/science/article/abs/pii/0031938490902586. [Accessed: 12-Feb-2022]._</br> 
-This academic paper discusses the footfall patterns of the rat’s walking gait. It considers gender, age and stress along with some other parameters. The paper discusses a study be</br>tween four different groups of rats which involves the comparison of the stride length, the stride width, and the weight between them.</br>
-Additionally, this paper helped us in understanding the locomotion pattern of a rat. It also helped us in determining its average walking speed. </br>
+_* [1] A. J. Parker and K. A. Clarke, “Gait topography in rat locomotion,” Physiology & Behavior, 14-Feb-2003. [Online]. Available: https://www.sciencedirect.com/science/article/abs/pii/0031938490902586. [Accessed: 12-Feb-2022]._
+This academic paper discusses the footfall patterns of the rat’s walking gait. It considers gender, age and stress along with some other parameters. The paper discusses a study between four different groups of rats which involves the comparison of the stride length, the stride width, and the weight between them.
+Additionally, this paper helped us in understanding the locomotion pattern of a rat. It also helped us in determining its average walking speed.
 
 _* [2] C. S. Howard, D. C. Blakeney, J. Medige, O. J. Moy, and C. A. Peimer, “Functional assessment in the rat by ground reaction forces,” Journal of Biomechanics, vol. 33, no. 6, pp. 751–757, 2000._</br>
 This paper asks if the ground reaction forces of a walking rat can be used as a metric to measure the functional recovery of rat limbs after various repair techniques are applied to a severed nerve. The paper developed a method of measuring various ground reaction forces of walking rats and used this data to measure functional recovery in rat limbs after nerve injury repair. This paper provides useful information as it shows ground reaction force graphs of a walking rat.</br>
