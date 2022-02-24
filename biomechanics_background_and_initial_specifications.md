@@ -54,7 +54,8 @@ _[12] Witte H, Biltzinger J, Hackert R, Schilling N, Schmidt M, Reich C, Fischer
 * **Metabolic energy/power consumed to locomote (respiration).**
 * **Mechanical energy/power generated during locomotion**
 * **Key biological materials and their mechanical properties (bone, ligaments, tendons, and the resulting link/joint stiffnesses and damping properties)**
-* **Muscle forces**
+* **Muscle forces**</br> 
+
 ## 4.	Fill in the information gaps from your biomechanics investigation with informed assumptions you can make. For example, if you know ground reaction forces from your paper, and some masses, try to find peak accelerations. If you know forces and velocities, calculate power usage. If you know maximum jump height and mass, find energy required for a jump. The most important pieces of information you can gather at this point are elements like “how much energy is consumed in accomplishing this gait”, “What are the forces involved”, etc.
 
 | **Parameter** | **Unit** | **Value Range** | **Reference** |
@@ -67,7 +68,7 @@ _[12] Witte H, Biltzinger J, Hackert R, Schilling N, Schmidt M, Reich C, Fischer
 | Peak walking ground reaction | N | 2.5-3 | [2] |
 | Stance phase duration | s | .150-.400 | [4] |
 | Body length | cm | 17-21 | [9] |
-| Tail length | cm | 20-23 | [9] |
+| Tail length | cm | 20-23 | [9] |</br> 
 
 ## 5. Supply at least two figures from literature, highlighting key aspects of the biological system. This should include one from each of the following categories:
 * **Figures/drawings of skeleton, anatomy, exoskeleton, body plan, musculature, kinematics**
@@ -84,13 +85,11 @@ This figure shows the skeletal structure of the fore and hind limbs of a rodent 
 [2]
 This figure shows the vertical ground reaction forces of a rat of about 280g mass walking on level ground. Of interest to us are the top two force graphs which show the force curves for the right and left feet. This shows that all limbs of the rat exert similar vertical forces on the ground and do so in a similar manner.
 
-* **Draw the simplest engineering representation of the system you can of your proposed mechanical system. How many rigid bodies are there? How many can be approximated as massless(1/10 of the total mass or less)? Where are the springs? Where is the (main) actuator?**
+## 6. Draw the simplest engineering representation of the system you can of your proposed mechanical system. How many rigid bodies are there? How many can be approximated as massless (1/10 of the total mass or less)? Where are the springs? Where is the (main) actuator?
 
 Model of a single leg as two beams with a joint and spring between them. There is an end stop that limits the motion of the second leg element and prevents it from moving past a certain angle with respect to the beam connected to the motor. The leg system is actuated by the one motor which controls the rotation of the beam it is attached to.
 
-
-This is a side view of the robot system. There are 9 rigid bodies in the model, two for each of the four legs and one for the robot’s main body which will hold the 4 motors and battery. With the repositioning of the battery the robot’s center of gravity will be adjusted so that it is midway between the front and back legs. The legs are expected to have low mass compared to the body of the robot and can thus be modeled as massless in order to simplify the model.
- 
+This is a side view of the robot system. There are 9 rigid bodies in the model, two for each of the four legs and one for the robot’s main body which will hold the 4 motors and battery. With the repositioning of the battery the robot’s center of gravity will be adjusted so that it is midway between the front and back legs. The legs are expected to have low mass compared to the body of the robot and can thus be modeled as massless in order to simplify the model. 
  
 ## Discussion
 **1. Discuss / defend your rationale for the size animal you selected in terms of your ability to replicate key features remotely with limited material selection.**
@@ -107,4 +106,4 @@ Efficiency of the servo = Output Mechanical Power/Input Electrical Power
 **Battery Specifications**
 https://www.digikey.com/en/products/detail/adafruit-industries-llc/328/5054542</br>
 Considering the mass of the rat to be 400g (refer to information in the table)</br>
-Watts/Kg (rat): 3.08/0.40</br>
+Watts/Kg (rat): 3.08/0.40
