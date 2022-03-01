@@ -13,6 +13,7 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 2. [Biomechanics background and initial specifications](/biomechanics_background_and_initial_specifications.md) [[Download .pdf file](/Biomechanics_Background_and_Initial_Specifications.pdf)]
 3. [System kinematics](/System_Kinematics.md) [[Download .ipynb file](/System_Kinematics.ipynb)]
 4. [1st Presentation](https://youtu.be/g-49m7Yg2VI) [[Download .pptx file](https://docs.google.com/presentation/d/10d-8RFNqoNzm_UsYKNi5XNpvufG763B3BaEXmCH2tQ8/edit?usp=sharing)]
+5. [System dynamics](/System_Dynamics.md) [[Download .ipynb file](/System_Dynamics.ipynb)]
 
 ## Team
 
