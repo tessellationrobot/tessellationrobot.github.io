@@ -14,8 +14,9 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 3. [System kinematics](/System_Kinematics.md) [[Download .ipynb file](/System_Kinematics.ipynb)]
 4. [1st Presentation](https://youtu.be/g-49m7Yg2VI) [[Download .pptx file](https://docs.google.com/presentation/d/10d-8RFNqoNzm_UsYKNi5XNpvufG763B3BaEXmCH2tQ8/edit?usp=sharing)]
 5. [System dynamics](/System_Dynamics.md) [[Download .ipynb file](/System_Dynamics.ipynb)]
-6. [Parameter ID Plan](/Parameter_ID_Plan.md)
-7. [Design and Manufacturing Workflow](/Design_and_Manufacturing_Workflow.md)
+6. [Parameter ID Plan](/Parameter_ID_Plan.md) [[Download .pdf file](/Parameter_ID_Plan.pdf)]
+7. [Design and Manufacturing Workflow](/Design_and_Manufacturing_Workflow.md) [[Download .ipynb file](/Design_and_Manufacturing_Workflow.ipynb)]
+8. [2nd Presentation](https://youtu.be/LuBYuHeHats) [[Download .pptx file](https://docs.google.com/presentation/d/1mwYypaCDZtJYFEcPRRaVUd5S-kNWVnOrrcAerUnpN3M/edit?usp=sharing)]
 
 ## Team
 
