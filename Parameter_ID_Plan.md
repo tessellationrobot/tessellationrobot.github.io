@@ -1,4 +1,4 @@
-﻿**Assignment: Parameter Identification Plan**
+﻿**Parameter Identification Plan**
 
 The goal of this assignment is to decide as a group how we will divide up the various parameter ID tasks. Following is the division of tasks amongst the group members.
 
