@@ -17,19 +17,6 @@ The goal of this assignment is to decide as a group how we will divide up the va
 |Updating the website|||X||
 |Report Compilation|X|X|X|X|
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Description:**
 
 **Materials:**
