@@ -2752,3 +2752,9 @@ The Github website needs to be updated regularly once any modifications are made
 **Data extraction approach:**
 
 Physical experiments with loads and external parameters would be used to extract data. Video recording may be implemented for better results. 
+
+
+Cardstock was used for the initial testing of the material. Cardstock was utilized for Layers 0 and 4, adhesive was used for Layers 1 and 3, and layer 2 was composed of a flexible plastic. We deduced that the final laminated system showed much stiffer properties than we expected. We concluded that the finished laminated structure had far stiffer qualities than we had anticipated. We are now proceeding to construct a 5-layer system using paper (70 GSM) layers 0 and 4.
+
+Note: We are conducting additional testing and will update the website accordingly. 
+
