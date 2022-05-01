@@ -20,8 +20,8 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 4. [System Dynamics](/System_Dynamics.md) [[Download .ipynb file](/System_Dynamics.ipynb)]
 5. [Design and Manufacturing Workflow](/Design_and_Manufacturing_Workflow.md) [[Download .ipynb file](/Design_and_Manufacturing_Workflow.ipynb)] [Download design associated files from [here](https://drive.google.com/drive/folders/1ibgRZjj3EJrjSyGyIN0kxKJahVZXMRNk?usp=sharing)]  
 6. [Design Optimization](/Design_Optimization.md) [[Download .ipynb file](/Design_Optimization.ipynb)]
-7. [Experiment Design]
-8. [Data Collection and Analysis]
+7. [Experiment Design](/Experiment_Design.md)
+8. [Data Collection and Analysis](/Data_Collection_and_Analysis.md)
 
 ## [Resources for downloading](https://drive.google.com/drive/folders/1V3ZzJhqy_7whPOeCgC4-16XvX6eZiUcc?usp=sharing)
 1. [Data](/Data.md)
@@ -33,7 +33,6 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 
 
 ## Team
-
 Advisor - Prof. Daniel Aukes (<daukes@asu.edu>)
 1. Disha Vyas (<dtvyas@asu.edu>)
 2. Eric Feil (<efeil@asu.edu>)
