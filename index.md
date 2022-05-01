@@ -12,7 +12,8 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 
 ![Snake_Skin_Tessellation_Based_Origami](/Snake_Skin_Tessellation_Based_Origami.jpg)
 
-## Our Research Flow (Click on individual links to read and learn mor about it)
+## Our Research Flow  
+(Click on individual links to read and learn more about it)
 1. [Research Question](/developing_a_research_question.md)
 2. [Biomechanics Background and Initial Specifications](/biomechanics_background_and_initial_specifications.md) [[Download .pdf file](/Biomechanics_Background_and_Initial_Specifications.pdf)]
 3. [System Kinematics](/System_Kinematics.md) [[Download .ipynb file](/System_Kinematics.ipynb)]
