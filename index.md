@@ -14,18 +14,17 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 
 ![Snake_Skin_Tessellation_Based_Origami](/Snake_Skin_Tessellation_Based_Origami.jpg)
 
-_Our team has explored and derived a system to illustrate how '**_snake skin_**' tessellation can be used to to simplify the locomotion of a robot. We have taken **_Rat as a bio-inspiration_** for our system._
+_Our team has explored and derived a system to illustrate how '**_snake skin_**' tessellation can be used to to simplify the locomotion of a robot. We have taken ***Rat as a bio-inspiration*** for our system._
 
 ## Sequence of tasks
-1. [Developing a research question](/developing_a_research_question.md)
-2. [Biomechanics background and initial specifications](/biomechanics_background_and_initial_specifications.md) [[Download .pdf file](/Biomechanics_Background_and_Initial_Specifications.pdf)]
-3. [System kinematics](/System_Kinematics.md) [[Download .ipynb file](/System_Kinematics.ipynb)]
-4. [1st Presentation](https://youtu.be/g-49m7Yg2VI) [[Download .pptx file](https://docs.google.com/presentation/d/10d-8RFNqoNzm_UsYKNi5XNpvufG763B3BaEXmCH2tQ8/edit?usp=sharing)]
-5. [System dynamics](/System_Dynamics.md) [[Download .ipynb file](/System_Dynamics.ipynb)]
-6. [Design and Manufacturing Workflow](/Design_and_Manufacturing_Workflow.md) [[Download .ipynb file](/Design_and_Manufacturing_Workflow.ipynb)] [Download design associated files from [here](https://drive.google.com/drive/folders/1ibgRZjj3EJrjSyGyIN0kxKJahVZXMRNk?usp=sharing)]  
-7. [2nd Presentation](https://youtu.be/LuBYuHeHats) [[Download .pptx file](https://docs.google.com/presentation/d/1mwYypaCDZtJYFEcPRRaVUd5S-kNWVnOrrcAerUnpN3M/edit?usp=sharing)]
+1. [Research Question](/developing_a_research_question.md)
+2. [Biomechanics Background and Initial Specifications](/biomechanics_background_and_initial_specifications.md) [[Download .pdf file](/Biomechanics_Background_and_Initial_Specifications.pdf)]
+3. [System Kinematics](/System_Kinematics.md) [[Download .ipynb file](/System_Kinematics.ipynb)]
+4. [System Dynamics](/System_Dynamics.md) [[Download .ipynb file](/System_Dynamics.ipynb)]
+5. [Design and Manufacturing Workflow](/Design_and_Manufacturing_Workflow.md) [[Download .ipynb file](/Design_and_Manufacturing_Workflow.ipynb)] [Download design associated files from [here](https://drive.google.com/drive/folders/1ibgRZjj3EJrjSyGyIN0kxKJahVZXMRNk?usp=sharing)]  
+6. []
 
-## Resources for downloading
+## [Resources for downloading](https://drive.google.com/drive/folders/1V3ZzJhqy_7whPOeCgC4-16XvX6eZiUcc?usp=sharing)
 1. [Data](/Data.md)
 2. [Images / Videos](/Gallery.md)
 3. [CAD Designs](/CAD_designs.md)
