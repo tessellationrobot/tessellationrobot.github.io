@@ -1,6 +1,6 @@
 # System Optimization
 
-##Diagrams of model
+Diagrams of model
 
 Our robot will be built of 4 identical legs. Below is a diagram of how we define the diffrent points, refernce frames, and distances for one leg. The end stop is a conceptual model for the behavior of our leg design. The leg is made of a tessalation that is easily deformed in one direction but reaches a singularity when deformed in the oposite direction preventing futher motion in that direction. The leg joint is modeled with a spring and damper so it mimics the tessalation joint.
 
