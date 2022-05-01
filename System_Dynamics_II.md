@@ -1,4 +1,4 @@
-# System Dynamics II
+# System Optimization
 
 ##Diagrams of model
 
