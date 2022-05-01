@@ -29,9 +29,6 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 3. [CAD Designs](/CAD_designs.md)
 4. [Code](/Code.md)
 
-## Biblography
-
-
 ## Team
 Advisor - Prof. Daniel Aukes (<daukes@asu.edu>)
 1. Disha Vyas (<dtvyas@asu.edu>)
