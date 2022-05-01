@@ -19,9 +19,7 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 3. [System Kinematics](/System_Kinematics.md) [[Download .ipynb file](/System_Kinematics.ipynb)]
 4. [System Dynamics](/System_Dynamics.md) [[Download .ipynb file](/System_Dynamics_I.ipynb)]
 5. [Design and Manufacturing Workflow](/Design_and_Manufacturing_Workflow.md) [[Download .ipynb file](/Design_and_Manufacturing_Workflow.ipynb)] [Download design associated files from [here](https://drive.google.com/drive/folders/1ibgRZjj3EJrjSyGyIN0kxKJahVZXMRNk?usp=sharing)]  
-6. [Design Optimization](/System_Dynamics_II.md) [[Download .ipynb file](System_Dynamics_II.ipynb)]
-7. [Experiment Design](/Experiment_Design.md)
-8. [Data Collection and Analysis](/Data_Collection_and_Analysis.md)
+6. [Design Optimization, Experiment Design, Data Collection and Analysis](/System_Dynamics_II.md) [[Download .ipynb file](System_Dynamics_II.ipynb)]
 
 ## [Resources for downloading](https://drive.google.com/drive/folders/1V3ZzJhqy_7whPOeCgC4-16XvX6eZiUcc?usp=sharing)
 1. [Data](/Data.md)
