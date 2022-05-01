@@ -45,6 +45,6 @@ Advisor - Prof. Daniel Aukes (<daukes@asu.edu>)
 Submit your feedbacks by filling [this form](https://forms.gle/VDvZrak7GW851kjF8).
 
 ## GitHub Repository Link
-[GitHub Repository](https://github.com/tessellationrobot/tessellationrobot.github.io).
+[GitHub Repository](https://github.com/tessellationrobot/tessellationrobot.github.io)
 
 
