@@ -30,7 +30,7 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 ## [Resources for downloading]
 (Click on individual links to access particular data)
 1. [Data](/Data.md)
-2. [Images / Videos](/Gallery.md)
+2. [Images / Videos](/Images_and_Videos.md)
 3. [CAD Designs](/CAD_designs.md)
 4. [Code](https://github.com/tessellationrobot/tessellationrobot.github.io/tree/main/Code)
 5. [Extras](/Extras.md)
