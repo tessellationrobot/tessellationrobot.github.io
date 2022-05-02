@@ -17,7 +17,7 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 1. [Research Question](/Developing_a_Research_Question.md)
 2. [Biomechanics Background and Initial Specifications](/Biomechanics_Background_and_Initial_Specifications.md) [[Download .pdf file](/Biomechanics_Background_and_Initial_Specifications.pdf)]
 3. [System Kinematics](/System_Kinematics.md) [[Download .ipynb file](/System_Kinematics.ipynb)]
-4. [System Dynamics](/System_Dynamics.md) [[Download .ipynb file](/System_Dynamics_I.ipynb)]
+4. [System Dynamics](/System_Dynamics_I.md) [[Download .ipynb file](/System_Dynamics_I.ipynb)]
 5. [Design and Manufacturing Workflow](/Design_and_Manufacturing_Workflow.md) [[Download .ipynb file](/Design_and_Manufacturing_Workflow.ipynb)] [Download design associated files from [here](https://drive.google.com/drive/folders/1ibgRZjj3EJrjSyGyIN0kxKJahVZXMRNk?usp=sharing)]  
 6. [Design Optimization, Experiment Design, Data Collection and Analysis](/System_Dynamics_II.md) [[Download .ipynb file](System_Dynamics_II.ipynb)]
 
