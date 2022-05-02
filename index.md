@@ -3,6 +3,8 @@ title: Home
 ---
 
 <h1 align="center"><em><strong> Origami Tessellations Based Actuation</strong></em></h1>
+![Straight_Legged_System](/Straight_Legged.jpg)
+![Angled_Legged_System](/Angled_Legged.jpg)
 
 Have you ever thought - '**_How can the directional stiffness exhibited by origami tessellations be used to simplify the actuation of the locomotion of a laminate robot?_**' We as a team are doing a research on this interesting topic. We hope that you too find the research interesting and participate with us by providing some feedback at the end.
   
