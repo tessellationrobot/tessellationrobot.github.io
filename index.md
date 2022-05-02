@@ -32,6 +32,7 @@ https://youtu.be/nSZbOi5HaqA
 2. [Images / Videos](/Gallery.md)
 3. [CAD Designs](/CAD_designs.md)
 4. [Code](/Code)
+5. [Extras](/Extras.md)
 
 ## Team
 Advisor - Prof. Daniel Aukes (<daukes@asu.edu>)
