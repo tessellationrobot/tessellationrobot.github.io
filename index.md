@@ -25,7 +25,7 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 1. [Data](/Data.md)
 2. [Images / Videos](/Gallery.md)
 3. [CAD Designs](/CAD_designs.md)
-4. [Code](/Code.md)
+4. [Code](/Code)
 
 ## Team
 Advisor - Prof. Daniel Aukes (<daukes@asu.edu>)
