@@ -32,7 +32,7 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 1. [Data](/Data.md)
 2. [Images / Videos](/Gallery.md)
 3. [CAD Designs](/CAD_designs.md)
-4. [Code](/Code)
+4. [Code](https://github.com/tessellationrobot/tessellationrobot.github.io/tree/main/Code)
 5. [Extras](/Extras.md)
 
 ## Team
