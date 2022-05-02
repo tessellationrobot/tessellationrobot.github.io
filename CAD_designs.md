@@ -2,7 +2,7 @@
 
 We made a 5 layered laminate initially. The below is the the DXF file and laminate image of the 5 layered laminate.
 
-![Python Generated DXF File](/Pyhon Generated DXF File.png)
+![Python Generated DXF File](/Python_Generated_DXF_File.png)
 Python Generated DXF File
 
 ![Final Laminate Structure](/20220426_165259.jpg)
@@ -14,5 +14,5 @@ We also made 2 CAD files for single layered. The below is the the DXF file image
 Straight Leg
 
 
-![Angled Leg](/Angled_Leg_CAD.png)
+![Angled Leg](/Angled_Leg_CAD.png)  
 Angled Leg
