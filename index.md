@@ -25,7 +25,7 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 6. [Design Optimization, Experiment Design, Data Collection and Analysis](/Design_Optimization,_Experiment_Design,_Data_Collection,_and_Analysis.md) 
 
 ## Presentation
- ![[Presentation](https://youtu.be/nSZbOi5HaqA)](/Presentation.png)
+ ![[Presentation](https://youtu.be/nSZbOi5HaqA)](Presentation.png)
  
 
 ## [Resources for downloading](https://drive.google.com/drive/folders/1V3ZzJhqy_7whPOeCgC4-16XvX6eZiUcc?usp=sharing)
