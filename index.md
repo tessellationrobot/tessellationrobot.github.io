@@ -22,7 +22,7 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 3. [System Kinematics](/System_Kinematics.md) 
 4. [System Dynamics](/System_Dynamics_I.md) 
 5. [Design and Manufacturing Workflow](/Design_and_Manufacturing_Workflow.md)   
-6. [Design Optimization, Experiment Design, Data Collection and Analysis](/System_Dynamics_II.md) 
+6. [Design Optimization, Experiment Design, Data Collection and Analysis](/Design_Optimization,_Experiment_Design,_Data_Collection,_and_Analysis.md) 
 
 ## [Resources for downloading](https://drive.google.com/drive/folders/1V3ZzJhqy_7whPOeCgC4-16XvX6eZiUcc?usp=sharing)
 1. [Data](/Data.md)
