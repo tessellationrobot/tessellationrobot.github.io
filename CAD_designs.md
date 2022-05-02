@@ -3,8 +3,10 @@
 We made a 5 layered laminate initially. The below is the the DXF file and laminate image of the 5 layered laminate.
 
 ![Python Generated DXF File](/Pyhon Generated DXF File.png)
-![Final Laminate Structure](/20220426_165259.jpg)
+Python Generated DXF File
 
+![Final Laminate Structure](/20220426_165259.jpg)
+Final Laminate Structure
 
 We also made 2 CAD files for single layered. The below is the the DXF file image of single layered structure.
 
