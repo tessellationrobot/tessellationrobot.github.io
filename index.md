@@ -24,8 +24,8 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 5. [Design and Manufacturing Workflow](/Design_and_Manufacturing_Workflow.md)   
 6. [Design Optimization, Experiment Design, Data Collection and Analysis](/Design_Optimization,_Experiment_Design,_Data_Collection,_and_Analysis.md) 
 
-## [Project Presentation](https://youtu.be/nSZbOi5HaqA)
- (Click on the above link to see the presentation on YouTube)
+## Project Presentation
+(https://youtu.be/nSZbOi5HaqA)
 
 ## [Resources for downloading](https://drive.google.com/drive/folders/1V3ZzJhqy_7whPOeCgC4-16XvX6eZiUcc?usp=sharing)
 1. [Data](/Data.md)
