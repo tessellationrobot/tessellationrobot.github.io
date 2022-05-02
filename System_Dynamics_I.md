@@ -2727,7 +2727,7 @@ We are yet to modify and optimize the code. There is a scope of inclusion of a m
 
 
 
-﻿**Parameter Identification Plan** [[Download .pdf file](/Parameter_ID_Plan.pdf)]
+## **Parameter Identification Plan**
 
 The goal of this assignment is to decide as a group how we will divide up the various parameter ID tasks. Following is the division of tasks amongst the group members.
 
