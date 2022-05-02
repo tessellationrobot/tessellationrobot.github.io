@@ -1,7 +1,7 @@
 ## Design Optimization, Experiment Design, Data Collection, and Analysis
 (Click on individual links to read and learn more about it)
 
-# 1. [Angle Optimization](/Angle.md)
-# 2. [Damping Optimization](/Damping_Optimization.md)
-# 3. [System Inertia](/System_Inertia.md)
-# 4. [Buckling](/Buckling)
+1. [Angle Optimization](/Angle.md)
+2. [Damping Optimization](/Damping_Optimization.md)
+3. [System Inertia](/System_Inertia.md)
+4. [Buckling](/Buckling)
