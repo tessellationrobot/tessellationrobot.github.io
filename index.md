@@ -27,7 +27,8 @@ _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such a
 ## Project Presentation
 https://youtu.be/nSZbOi5HaqA
 
-## [Resources for downloading](https://drive.google.com/drive/folders/1V3ZzJhqy_7whPOeCgC4-16XvX6eZiUcc?usp=sharing)
+## [Resources for downloading]
+(Click on individual links to access particular data)
 1. [Data](/Data.md)
 2. [Images / Videos](/Gallery.md)
 3. [CAD Designs](/CAD_designs.md)
