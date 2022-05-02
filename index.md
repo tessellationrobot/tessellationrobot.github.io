@@ -16,7 +16,8 @@ Angled Legged Robot
 
 _Some origami [tessellations](https://en.wikipedia.org/wiki/Tessellation) such as the ‘snake skin’ tessellation exhibit an interesting property of directional stiffness. This means that as force is applied to the tessellation in one direction it easily flexes but when force is applied in the opposite direction the structure reaches a point at which it becomes rigid or stiff. This property could be used to allow for a work loop in a gait by only moving a limb forwards and backwards and allowing the directional stiffness to create the force difference needed for motion._
 
-![Snake_Skin_Tessellation_Based_Origami](/Snake_Skin_Tessellation_Based_Origami.jpg)
+![Snake_Skin_Tessellation_Based_Origami](/Snake_Skin_Tessellation_Based_Origami.jpg)  
+Snake Skin Origami Tessellation
 
 ## Our Research Flow  
 (Click on individual links to read and learn more about it)
